@@ -61,6 +61,6 @@ BASE_PATH = "/content/drive/MyDrive/sua_pasta_preferida/"
 Para baixar artigos de um evento diferente, altere a variável `proceedings_url`:
 
 ```python
-proceedings_url = "[https://sol.sbc.org.br/index.php/outro_evento](https://sol.sbc.org.br/index.php/outro_evento)"
+proceedings_url = "https://sol.sbc.org.br/index.php/outro_evento"
 ```
 
