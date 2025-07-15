@@ -64,5 +64,3 @@ Para baixar artigos de um evento diferente, altere a variável `proceedings_url`
 proceedings_url = "[https://sol.sbc.org.br/index.php/outro_evento](https://sol.sbc.org.br/index.php/outro_evento)"
 ```
 
-```
-```
